@@ -35,6 +35,8 @@ User Name: root
 Password: No password is necesary
 ```
 
+![H2 console image](https://github.com/AlvaroGutierrez2/ameris-chanllenge-backend/assets/148718348/01a56156-66e9-4983-b2c9-5f26b36eb7e7)
+
 
 ## Endpoint
 
