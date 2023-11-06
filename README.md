@@ -43,6 +43,11 @@ Password: No password is necesary
 This endpoint does not need any parameters and returns all the employee's information from the DataBase
 - http://localhost:8080/api/v1/employees
 
+![Backend Employees list](https://github.com/AlvaroGutierrez2/ameris-chanllenge-backend/assets/148718348/aed44b03-a07d-4c02-adc5-3469c1135f43)
+
+
 This endpoint needs {employeeId} and it returns all for the information for the specific employee id.  
 - http://localhost:8080/api/v1/employee/{employeeId}
-  ![Backend single employee info](https://github.com/AlvaroGutierrez2/ameris-chanllenge-backend/assets/148718348/6e298efb-f45a-4142-8d9f-d32a9abae2c8)
+
+  
+![Backend single employee info](https://github.com/AlvaroGutierrez2/ameris-chanllenge-backend/assets/148718348/6e298efb-f45a-4142-8d9f-d32a9abae2c8)
