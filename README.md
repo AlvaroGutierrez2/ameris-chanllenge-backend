@@ -17,7 +17,7 @@ The file used for create the table and populate the data are:
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.komet.challenge.ChallengeApplication` class from your IDE.
 
-Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
+Alternatively you can use in the root directory the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
 
 ```
 mvn spring-boot:run
